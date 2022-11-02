@@ -1,0 +1,2 @@
+# CookieClicker
+cookie
